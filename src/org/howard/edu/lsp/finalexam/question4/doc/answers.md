@@ -1,0 +1,5 @@
+# Question 4
+
+At the beginning of the semester I mostly saw AI as a quick way to get answers or fix bugs when I was stuck. My perspective about AI technology changed when I learned from my practical experiences with it. I’ve realized that AI is more useful as a tool for learning rather than just giving solutions. I improve my code understanding through using it to explain concepts and break down errors and suggest different approaches. I have learned that I must assess AI outputs because they do not always present accurate information.
+
+I plan to start using AI tools only when I need them for my programming projects and academic studies. I want to use it to brainstorm ideas, debug step by step, and better understand algorithms or concepts I’m learning in class. I will use it to enhance my code through feedback requests and optimization suggestions instead of depending on it to handle all development tasks. I see AI as a tool that supports my programming development because I need to stay involved in my educational activities.
